@@ -1,12 +1,3 @@
-SOURCE
-https://twitter.com/jscarto/status/1435675163622793218?s=20
-https://gist.github.com/jscarto/d9a5adc8ae1d43c5a4b8989d3b35551a
-
-VIEW ON TABLEAU PUBLIC
-
-
-CODE FOR COPY & PASTE IN PREFERECES FILE
-
 <color-palette name="Vintage_Viridis" type="ordered-sequential">
 <color>#191718</color>
 <color>#191819</color>
