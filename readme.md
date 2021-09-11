@@ -1,6 +1,6 @@
 ## tableau-vintage-viridis
 
-'Vintage Viridus' Colour Palette prepared for use in Tableau
+'Vintage Viridus' colour palette prepared for use in Tableau
 
 Adapted from:
 https://gist.github.com/jscarto/d9a5adc8ae1d43c5a4b8989d3b35551a
